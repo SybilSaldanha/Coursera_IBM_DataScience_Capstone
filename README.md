@@ -1,6 +1,7 @@
 # Coursera IBM Data Science Professional Capstone
 
 This repository contains the Capstone I worked on during the IBM Professional Data Science Course.
+
 The Capstone involved analysis of neighborhood data from any country/state and using K-Means clustering to group similar neighborhoods together.
 
 My project was to analyse neighborhoods of Australia and try to cluster related neighborhoods together. 
